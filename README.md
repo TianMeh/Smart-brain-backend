@@ -1,1 +1,1 @@
-# Smart-brain-backend
+# Backend project code
